@@ -1,0 +1,24 @@
+{
+  "name": "justAStart",
+  "version": "1.0.0",
+  "description": "just to probe the xml and json transformation functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "htmlparser2": "^3.10.1",
+    "jsdom": "^15.1.1",
+    "xmldom": "^0.1.27"
+  }
+}

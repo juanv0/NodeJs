@@ -1,0 +1,3 @@
+C:\Users\1456206\Desktop\Mio\NodeJS\AzureApis\FirstApp\PrimerApp\PrimerApp\obj\Release\PrimerApp.njsprojAssemblyReference.cache
+C:\Users\1456206\Desktop\Mio\NodeJS\AzureApis\FirstApp\PrimerApp\PrimerApp\obj\Release\PrimerApp.njsproj.CoreCompileInputs.cache
+C:\Users\1456206\Desktop\Mio\NodeJS\AzureApis\FirstApp\PrimerApp\PrimerApp\bin\Microsoft.NodejsTools.WebRole.dll
